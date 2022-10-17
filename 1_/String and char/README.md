@@ -1,4 +1,4 @@
-## Getting Started
+## Type of variables: Strings and characters.
 
 ```
 ╔════════════════════════════════════════════════════════════════════════╗
