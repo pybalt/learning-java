@@ -25,7 +25,12 @@ public class App {
     }
     public static void testString(){
         String name = "Leonel";
-        System.out.println(String.format("My name is %s", name));
+        System.out.println(String.format("My \tname\t is %s\n", name));
+        /* You can also use escape sequences inside the strings.
+         * A few examples:
+         * \t TAB
+         * \n ENTER
+         */
     }
     public static void concatenation() {
         String name = "Leonel";
@@ -34,7 +39,7 @@ public class App {
                 On the other hand,
                 this is a multiline string.
                 """;
-        System.out.println("Hello, my name is " + name);
+        System.out.println("\nHello, my name is " + name + "\n");
         System.out.println(explanation);
     }
 }
