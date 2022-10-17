@@ -15,6 +15,7 @@ public class App {
     public static void main(String[] args) throws Exception {
         testChar();
         testString();
+        concatenation();
     }
     public static void testChar(){
         char initial =  'L';
@@ -25,5 +26,15 @@ public class App {
     public static void testString(){
         String name = "Leonel";
         System.out.println(String.format("My name is %s", name));
+    }
+    public static void concatenation() {
+        String name = "Leonel";
+        String explanation = """
+                The last line has been concatenated. 
+                On the other hand,
+                this is a multiline string.
+                """;
+        System.out.println("Hello, my name is " + name);
+        System.out.println(explanation);
     }
 }
