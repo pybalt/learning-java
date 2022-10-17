@@ -19,5 +19,9 @@
     Returns a formatted string using the specified format string and arguments.
    
   ... and many more!
+
+    __doc__
+
+  https://docs.oracle.com/javase/7/docs/api/java/lang/String.html
  
 ```

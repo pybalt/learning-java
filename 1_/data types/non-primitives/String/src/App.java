@@ -15,6 +15,13 @@
  * concat(str) -> String. Concatenates the specified string to the end of this string.
  * String.format("String %s... %s", var 1, ..., var n) -> String. 
     Returns a formatted string using the specified format string and arguments.
+
+    ... and many more!
+
+    __doc__
+
+    https://docs.oracle.com/javase/7/docs/api/java/lang/String.html
+
  */
 
 public class App {
