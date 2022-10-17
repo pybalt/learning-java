@@ -11,3 +11,4 @@
 ║ string  ║ "Hello world!", "How are you?"     ║ String name = "Leonel"  ║
 ╚═════════╩════════════════════════════════════╩═════════════════════════╝
 ```
+A string is just a concatenation of characters.
