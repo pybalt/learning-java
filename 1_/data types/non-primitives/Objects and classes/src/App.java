@@ -30,6 +30,9 @@
 public class App {
     public static void main(String[] args) throws Exception {
         SomeClass myFirstObject = new SomeClass();
+
+        /* This is an object. An object is an instance of a class */
+
         System.out.println(myFirstObject.helloWorld());
     }
 }
