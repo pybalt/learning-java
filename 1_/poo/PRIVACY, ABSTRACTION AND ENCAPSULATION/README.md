@@ -12,7 +12,7 @@ There are two ways to achieve abstraction in java
 - Abstract class (0 to 100%)
 - Interface (100%)
 
-[image](https://static.javatpoint.com/images/abstract-class-in-java.jpg)
+[img](https://static.javatpoint.com/images/abstract-class-in-java.jpg)
 
 ## [Differences between Abstract Class and Interface](https://www.guru99.com/interface-vs-abstract-class-java.html#:~:text=An%20abstract%20class%20permits%20you,class%20can%20implement%20multiple%20interfaces.)
 
