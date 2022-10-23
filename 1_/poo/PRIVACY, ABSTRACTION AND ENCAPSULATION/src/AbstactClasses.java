@@ -1,3 +1,4 @@
+package src;
 public class AbstactClasses {
     // ! This will throw an error because abstract classes cannot be instantiated.
     // Animal animal = new Animal();
